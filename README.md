@@ -1,1 +1,1 @@
-# Zaquum' Algorithm Solving Page
+# Algorithm Solving Page
