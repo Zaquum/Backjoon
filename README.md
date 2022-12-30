@@ -1,1 +1,1 @@
-# Backjoon
+# Zaquum' Algorithm Solving Page
